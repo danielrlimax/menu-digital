@@ -5,7 +5,7 @@ export default function Hero() {
     <section className="relative w-full h-52 overflow-hidden">
       {/* Background Image */}
       <img
-        src="/images/hero-bg.jpg"
+        src="images/hero-bg.jpg"
         alt="Ambiente do restaurante"
         className="absolute inset-0 w-full h-full object-cover"
       />
